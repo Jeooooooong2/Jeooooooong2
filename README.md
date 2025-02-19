@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Woo Jeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Woo%20Jeong&fontSize=90)
 # 📝 개요
   - 프로젝트 명 : 반려동물 용품 쇼핑몰<br>
   - 프로젝트 기간 : 2024-11 ~ 2024-12 <br>
