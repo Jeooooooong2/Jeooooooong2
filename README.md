@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Woo%20Jeong&fontSize=90)
 
-# 🙋‍♀️ 안녕하세요
-# 열려있는 인재, 우정입니다 :)
+# 🙋‍♀️ 안녕하세요  
+열려있는 인재, 우정입니다 :)
  
 
 🖥️ **스킬**
