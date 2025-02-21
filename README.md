@@ -4,28 +4,32 @@
 열려있는 인재, 우정입니다 :)
  
 
-🖥️ **스킬**  
+### 🔧 Tech Stack
+#### 📌 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-#### Framework
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring%20Boot&logoColor=white)
-#### DATABASE
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-#### LIBLARY
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JSTL](https://img.shields.io/badge/jstl-E4F7BA?style=for-the-badge)
-![Lombok](https://img.shields.io/badge/Lombok-FFA7A7?style=for-the-badge)
+
+#### 📌 Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring%20Boot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-47C83E?style=for-the-badge)
-#### WAS Apache
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat%2010-23F8DC75.svg?style=for-the-badge&logo=apache%20tomcat%2010&logoColor=black)
-#### TOOL
+![JSTL](https://img.shields.io/badge/jstl-E4F7BA?style=for-the-badge)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-23F8DC75.svg?style=for-the-badge&logo=apache%20tomcat&logoColor=black)
+
+#### 📌 Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/Heidi%20SQL-6B9900?style=for-the-badge)
+
+#### 📌 DevOps & Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Heidi](https://img.shields.io/badge/Heidi%20SQL-6B9900?style=for-the-badge)
 ![Spring Tool Suite 4](https://img.shields.io/badge/Spring%20Tool%20Suite%204-8A2BE2?style=for-the-badge)
-![Google Spread Sheet](https://img.shields.io/badge/Google%20Spread%20Sheet-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 
 ☎️ **연락처**
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeong27040@gmail.com)
