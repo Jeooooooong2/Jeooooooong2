@@ -38,7 +38,7 @@
 
 
 
-☎️ **연락처**  
+## 📌 연락처
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeong27040@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jeong2)
 
