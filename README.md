@@ -26,7 +26,6 @@
 
 ## 📌 Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-db-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 📌 DevOps & Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
