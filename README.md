@@ -21,14 +21,13 @@
 
 #### 📌 Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/Heidi%20SQL-6B9900?style=for-the-badge)
+
 
 #### 📌 DevOps & Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Spring Tool Suite 4](https://img.shields.io/badge/Spring%20Tool%20Suite%204-8A2BE2?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![HeidiSQL](https://img.shields.io/badge/Heidi%20SQL-6B9900?style=for-the-badge)
 
 
 ☎️ **연락처**
