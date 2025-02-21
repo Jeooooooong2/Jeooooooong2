@@ -5,9 +5,7 @@
 
 # 📒 포트폴리오
 ### 📌 My Projects
-[![Project 1](https://img.shields.io/badge/Project_1-1E90FF?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username/project-1](https://jeooooooong2.github.io/))
-[![Project 2](https://img.shields.io/badge/Project_2-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/project-2)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://jeooooooong2.github.io/)
  
 
 # 🔧 Tech Stack
