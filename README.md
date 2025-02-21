@@ -6,6 +6,8 @@
 # 📒 포트폴리오
 ### 📌 My Projects
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://jeooooooong2.github.io/)
+[![Portfolio](https://img.shields.io/badge/Pettopia-008CBA?style=for-the-badge&logo=login&logoColor=white)](http://43.203.211.169/pettopia/login)
+
  
 
 # 🔧 Tech Stack
